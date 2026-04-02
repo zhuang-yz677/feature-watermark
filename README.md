@@ -15,18 +15,18 @@ Download the datasets and models from Google Drive: [download](https://drive.goo
 #### 1.pretrain 
 
 ```
-`python vectors_generation.py`
+python vectors_generation.py
 ```
 
 #### 2.train encoder and decoder
 
 ```
-`python train.py`
+python train.py
 ```
 
 #### 3.test watermark
 
 ```
-`python test.py`
+python test.py
 ```
 
