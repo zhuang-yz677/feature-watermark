@@ -29,4 +29,16 @@ python train.py
 ```
 python test.py
 ```
+### Citation
+```
+@ARTICLE{11458787,
+  author={Shen, Zhangyi and Zhuang, Yuzhong and Zhu, Yani and Yao, Ye},
+  journal={IEEE Signal Processing Letters}, 
+  title={Lightweight Feature Watermark for Robust Image Attribution in Latent Diffusion Models}, 
+  year={2026},
+  pages={1-5},
+  keywords={Payloads;Feeds;Internet of Things;Digital images;Internet;Cyberspace;Communication systems;Communication networks;Computer networks;Codecs;Latent Diffusion Model;Robust watermark;Image attribution;Lightweight},
+  doi={10.1109/LSP.2026.3679279}}
+```
+
 
